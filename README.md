@@ -1,6 +1,6 @@
 # Real time Swift iOS Chat with Firebase - Messenger Clone
 
-Creds to iosapptemplates because I purchased this from there to use for my own purposes.  Still have a few more edits that I want to make to it.
+Creds to iosapptemplates because I purchased this from there to use for my own purposes.  I still have a few more edits that I want to make to it.
 
 ## How to run a demo app
 
